@@ -1,16 +1,25 @@
-# contact_diary_pr
+# Contact Diary App with Dynamic Theme Support (Light/Dark Mode)
 
-A new Flutter project.
+This is a Flutter-based mobile app that allows users to manage their contacts and diary entries, with the added functionality of dynamically switching between Light and Dark themes. The app is designed to work seamlessly on both Android and iOS platforms. Users can store, view, and manage contact details along with personal notes or diary entries for each contact, while enjoying a customizable theme experience.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Contact Management**: Easily add, update, and delete contacts.
+- **Diary Entries**: Keep detailed personal notes or meeting summaries linked to each contact.
+- **Dynamic Theme Change**: Switch between Light and Dark themes at any time, with the preference saved locally.
+- **Search Functionality**: Search contacts by name or notes for easy access.
+- **Persistent Data**: Contacts and diary entries are stored locally using SQLite or SharedPreferences, ensuring data persistence even after app restarts.
 
-A few resources to get you started if this is your first Flutter project:
+## Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To run this app locally, make sure you have the following set up:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter SDK**: [Install Flutter](https://flutter.dev/docs/get-started)
+- **Dart SDK**: Flutter includes Dart by default.
+- **IDE**: An editor like **Visual Studio Code** or **Android Studio** for Flutter development.
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/contact-diary-app.git
