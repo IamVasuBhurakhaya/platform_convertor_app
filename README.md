@@ -36,3 +36,10 @@ To run this app locally, make sure you have the following set up:
 <img src="https://github.com/user-attachments/assets/529fe534-3ed3-4fe1-a0df-b8519f3784c8" height="500" width="200">
 
    
+
+
+
+<img src="https://github.com/user-attachments/assets/25cfc808-0fed-42eb-85bf-f8949fc538ef">
+
+
+
