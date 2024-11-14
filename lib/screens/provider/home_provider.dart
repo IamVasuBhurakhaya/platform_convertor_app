@@ -5,10 +5,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 class HomeProvider extends ChangeNotifier {
   List<HomeModel> allContacts = [
     HomeModel(
-      name: 'John Doe',
-      number: '1234567890',
-      email: 'pHk6Z@example.com',
-      isFavourite: false,
+     
     ),
   ];
 
