@@ -4,9 +4,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 class HomeProvider extends ChangeNotifier {
   List<HomeModel> allContacts = [
-    HomeModel(
-     
-    ),
+    HomeModel(),
   ];
 
   List<RecentModel> recentList = [];
