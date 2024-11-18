@@ -25,15 +25,15 @@ To run this app locally, make sure you have the following set up:
    git clone https://github.com/your-username/contact-diary-app.git
 
 
-<img src="https://github.com/user-attachments/assets/304c00c1-a22a-49d4-90de-ca8d3cb1ee80" height="500" width="200">
-<img src="https://github.com/user-attachments/assets/44a38ae8-0c77-43e0-bcb3-c1a6cf74f5f2" height="500" width="200">
-<img src="https://github.com/user-attachments/assets/5ba75510-6a8c-4fd7-98b2-c955c6268194" height="500" width="200">
-<img src="https://github.com/user-attachments/assets/e1e785a1-1df5-4699-aa58-09919057076f" height="500" width="200">
-<img src="https://github.com/user-attachments/assets/8e10786f-1889-4612-bbac-26efe588d583" height="500" width="200">
-<img src="https://github.com/user-attachments/assets/21f7be2e-c877-47bd-86af-d9712a90e6cc" height="500" width="200">
-<img src="https://github.com/user-attachments/assets/84ef8321-b34f-4923-b06f-59ff879dd6d3" height="500" width="200">
-<img src="https://github.com/user-attachments/assets/276e4b0d-23b4-439f-9e7a-cdff1160f61b" height="500" width="200">
-<img src="https://github.com/user-attachments/assets/529fe534-3ed3-4fe1-a0df-b8519f3784c8" height="500" width="200">
+<img src="https://github.com/user-attachments/assets/304c00c1-a22a-49d4-90de-ca8d3cb1ee80" height="500" width="250">
+<img src="https://github.com/user-attachments/assets/44a38ae8-0c77-43e0-bcb3-c1a6cf74f5f2" height="500" width="250">
+<img src="https://github.com/user-attachments/assets/5ba75510-6a8c-4fd7-98b2-c955c6268194" height="500" width="250">
+<img src="https://github.com/user-attachments/assets/e1e785a1-1df5-4699-aa58-09919057076f" height="500" width="250">
+<img src="https://github.com/user-attachments/assets/8e10786f-1889-4612-bbac-26efe588d583" height="500" width="250">
+<img src="https://github.com/user-attachments/assets/21f7be2e-c877-47bd-86af-d9712a90e6cc" height="500" width="250">
+<img src="https://github.com/user-attachments/assets/84ef8321-b34f-4923-b06f-59ff879dd6d3" height="500" width="250">
+<img src="https://github.com/user-attachments/assets/276e4b0d-23b4-439f-9e7a-cdff1160f61b" height="500" width="250">
+<img src="https://github.com/user-attachments/assets/529fe534-3ed3-4fe1-a0df-b8519f3784c8" height="500" width="250">
 
    
 
