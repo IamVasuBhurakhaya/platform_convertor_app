@@ -39,7 +39,7 @@ To run this app locally, make sure you have the following set up:
 
 
 
-<img src="https://github.com/user-attachments/assets/25cfc808-0fed-42eb-85bf-f8949fc538ef">
+<img src="https://github.com/user-attachments/assets/25cfc808-0fed-42eb-85bf-f8949fc538ef"  height="500" width="250">
 
 
 
